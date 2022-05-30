@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/lawcia/near-hello-world-smart-contract-frontend.git
+[submodule "contract"]
+	path = contract
+	url = https://github.com/lawcia/near-hello-world-smart-contract-rust.git
